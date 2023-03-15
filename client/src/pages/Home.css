@@ -1,0 +1,20 @@
+.heading{
+    text-align: center;
+    padding: 2% ;
+}
+.movies-div{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5%;
+    margin: .5% 2%;
+}
+.flex{
+    display: flex;
+}
+.left{
+    margin-left: 2%;
+}
+.movie-card{
+    flex: 1 0 21%; /* explanation below */
+    margin: 5px;
+}
